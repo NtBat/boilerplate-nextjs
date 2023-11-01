@@ -36,6 +36,13 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 Boilerplate with:
+
 - NextJS 14.0
 - EsLint (eslint-plugin-react-hooks)
 - Prettier
+- Husky
+- Lint staged
+- Commitizen
+- Dependabot
+- Typecheck script
+- Jest and React Testing Library
