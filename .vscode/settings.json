@@ -101,23 +101,7 @@
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "cSpell.userWords": [
-    "headlessui",
-    "tailwindcss",
-    "tailwind",
-    "fastify",
-    "swiper",
-    "Jamjuree",
-    "jamjuree",
-    "rocketseat",
-    "lemoon",
-    "whatsapp",
-    "tiktok",
-    "youtube",
-    "linkedin",
-    "enps",
-    "hotsite"
-  ],
+  "cSpell.userWords": ["tailwindcss", "tailwind", "typecheck"],
   "[prisma]": {
     "editor.formatOnSave": true
   },
